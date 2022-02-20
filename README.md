@@ -1,6 +1,6 @@
 [Capegemini](https://linktoleaders.com/wp-content/uploads/2019/07/Capgemini-lan%C3%A7a-o-primeiro-fundo-de-capital-de-risco-de-tecnologia.jpg)
 
-<h1>Desafio CAPEGMINI - 2022</h1>
+<h1>Desafio CAPGEMINI - 2022</h1>
 
 > Status : Em desenvolvimento 
 
